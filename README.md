@@ -4,3 +4,7 @@ This is a term project made by *Suvrat Kumra* and *Nasima Dahir* for **Universit
 In this project we plan to Compare Naive and Machine Learning Methods for League of Legends Match Prediction Accuracy. 
 
 This is a research project where we aim to use the riot API for all the match data collection and Python + MongoDB for our project core tech stack.
+
+## Steps to set up the project in the environment
+* Make sure you have ```pip``` install on your computer.
+* Install Jupyter Lab using the command ```pip install jupyterlab```.
