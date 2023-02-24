@@ -8,3 +8,8 @@ This is a research project where we aim to use the riot API for all the match da
 ## Steps to set up the project in the environment
 * Make sure you have ```pip``` install on your computer.
 * Install Jupyter Lab using the command ```pip install jupyterlab```.
+* Run jupyter lab by opening a new command prompt and typing ```jupyter lab```. If the terminal throws an error, use this video to fix it https://www.youtube.com/watch?v=FZoDIwe1_YM
+* Install pymongo in your computer ```pip install pymongo```
+
+
+Open the ```main``` notebook and enjoy
